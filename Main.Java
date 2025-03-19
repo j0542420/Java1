@@ -16,10 +16,10 @@ public class Main
 
         System.out.println("What year were you born?");
 
-        int year = Scanner.nextInt();
+        int year = scanner.nextInt();
 
         int age = 2025-year;
 
-        System.out.println("You are" +age+ "Years old");
+        System.out.println("You are " + age + " Years old");
     }
 }

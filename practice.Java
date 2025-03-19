@@ -15,18 +15,18 @@ public class Main
 
         //System.out println("largest number:")
 
-        int largest = 0
-        if (firstNum >= secondNum && firstNum > thirdNum)
-        {
-            largest = firstNum
-        }
-        if (secondtNum >= firstNum && firstNum > thirdNum)
-        {
-            largest = firstNum
-        }
-        if (firstNum >= secondNum && firstNum > thirdNum)
-        {
-            largest = firstNum
-        }
+        // int largest = 0
+        // if (firstNum >= secondNum && firstNum > thirdNum)
+        // {
+        //     largest = firstNum
+        // }
+        // if (secondtNum >= firstNum && firstNum > thirdNum)
+        // {
+        //     largest = firstNum
+        // }
+        // if (firstNum >= secondNum && firstNum > thirdNum)
+        // {
+        //     largest = firstNum
+        // }
     }
 }
